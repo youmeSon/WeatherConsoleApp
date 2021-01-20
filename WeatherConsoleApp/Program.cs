@@ -6,7 +6,7 @@ namespace WeatherConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
